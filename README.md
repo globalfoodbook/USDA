@@ -22,3 +22,8 @@ Take note of plain and c formats for postgressql (pg_restore)
 ### C Format
 
 ``` heroku pg:backups restore 'https://raw.githubusercontent.com/globalfoodbook/USDA-DATA/master/nutrition_sr26_c.dump' DATABASE_URL --app APP --confirm APP ```
+
+### Import ElephantSQL
+NB: Plain Format Used http://elephantsql.com
+
+``` psql postgres://<username>:<password>@pellefant.db.elephantsql.com:5432/<db_name> < nutrition_sr<number>_plain.dump ```
