@@ -27,3 +27,10 @@ Take note of plain and c formats for postgressql (pg_restore)
 NB: Plain Format Used http://elephantsql.com
 
 ``` psql postgres://<username>:<password>@pellefant.db.elephantsql.com:5432/<db_name> < nutrition_sr<number>_plain.dump ```
+
+## Links
+USDA Nutrition Database: [http://www.ars.usda.gov/Services/docs.htm?docid=8964](http://www.ars.usda.gov/Services/docs.htm?docid=8964)
+
+[Importing and Exporting Heroku Postgres Databases with PG Backups](https://devcenter.heroku.com/articles/heroku-postgres-import-export)
+[ElephantSQL Documentation](http://www.elephantsql.com/docs/index.html)
+[Global Food Book](http://globalfoodbook.com)
