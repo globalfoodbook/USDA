@@ -32,5 +32,7 @@ NB: Plain Format Used http://elephantsql.com
 USDA Nutrition Database: [http://www.ars.usda.gov/Services/docs.htm?docid=8964](http://www.ars.usda.gov/Services/docs.htm?docid=8964)
 
 [Importing and Exporting Heroku Postgres Databases with PG Backups](https://devcenter.heroku.com/articles/heroku-postgres-import-export)
+
 [ElephantSQL Documentation](http://www.elephantsql.com/docs/index.html)
-[Global Food Book](http://globalfoodbook.com)
+
+Updates for nutrition label: [healthy food recipes](http://globalfoodbook.com) 
